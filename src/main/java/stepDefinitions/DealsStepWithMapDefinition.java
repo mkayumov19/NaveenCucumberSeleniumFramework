@@ -88,7 +88,8 @@ public class DealsStepWithMapDefinition {
 			driver.findElement(By.xpath("//a[contains(text(),'New Deal')]")).click();
 
 		}
-// added some change
+// added something for commit
+	
 		
 	}
 
